@@ -12,7 +12,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-14-000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6)
 
-[**View live →**](https://gauchazh.clicrbs.com.br/especiais/painel-da-reconstrucao/) · [Portfolio](https://kevinshibuya.com) · [LinkedIn](https://linkedin.com/in/kevin-shibuya)
+[**View live →**](https://gauchazh.clicrbs.com.br/especiais/painel-da-reconstrucao/) · [On my portfolio ↗](https://kevinshibuya.com/projects/painel-da-reconstrucao) · [LinkedIn](https://linkedin.com/in/kevin-shibuya)
 
 </div>
 
